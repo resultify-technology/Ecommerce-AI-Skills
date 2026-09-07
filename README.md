@@ -18,7 +18,7 @@ Works with **Claude Code** · **Cursor** · **Windsurf** · **Codex** · any Ski
 
 ## Quick Start
 
-Copy the skill folder(s) you need into your project's `.claude/skills/` directory (or wherever your agent reads skills from), or install straight from GitHub once this pack is pushed to your own org:
+Copy the skill folder(s) you need into your project's `.claude/skills/` directory (or wherever your agent reads skills from), or install straight from GitHub:
 
 ```bash
 npx skills add resultify-technology/Ecommerce-AI-Skills -g
@@ -36,7 +36,7 @@ Example — install the growth strategy skill:
 npx skills add resultify-technology/Ecommerce-AI-Skills --skill ecommerce-growth-strategy -g
 ```
 
-> The `npx skills add` commands above resolve once this repo is pushed to a real GitHub org (update `resultify-technology/Ecommerce-AI-Skills` throughout this pack to match wherever you actually host it). Until then, copy the folders in directly.
+
 
 Then just ask your AI assistant naturally:
 
