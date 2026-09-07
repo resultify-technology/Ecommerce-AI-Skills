@@ -1,18 +1,21 @@
 ---
-resultify:
-  name: "Online Reputation Management"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "reputation"
-    - "brand-monitoring"
-    - "crisis-management"
-    - "review-management"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "online reputation management"
+name: online-reputation-management
+description: AI-powered online reputation management skill for e-commerce brands. Builds reputation monitoring frameworks, negative review response strategies, rating recovery plans, and crisis communication templates.
+metadata:
+  resultify:
+    name: Online Reputation Management
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - reputation
+    - brand-monitoring
+    - crisis-management
+    - review-management
+    model: any
+    tokens: ~2000
+    keywords:
+    - online reputation management
 ---
 
 # Online Reputation Management

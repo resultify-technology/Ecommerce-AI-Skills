@@ -1,20 +1,23 @@
 ---
-resultify:
-  name: "Domain Monitoring"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "domain"
-    - "ssl"
-    - "security"
-    - "monitoring"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "domain monitoring"
-    - "ssl monitoring"
+name: domain-monitoring
+description: AI-powered domain and SSL certificate monitoring skill. Designs domain health checks, SSL expiry alerts, DNS anomaly detection, and security rating assessments for e-commerce websites.
+metadata:
+  resultify:
+    name: Domain Monitoring
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - domain
+    - ssl
+    - security
+    - monitoring
+    - ecommerce
+    model: any
+    tokens: ~2000
+    keywords:
+    - domain monitoring
+    - ssl monitoring
 ---
 
 # Domain Monitoring

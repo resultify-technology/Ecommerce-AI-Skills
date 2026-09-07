@@ -1,3 +1,8 @@
+---
+name: shopify-analytics-guide
+description: Master Shopify analytics and reporting. Understand key metrics, build custom reports, track customer behavior, and make data-driven decisions to grow your Shopify store.
+---
+
 # Shopify Analytics Guide
 
 Master Shopify analytics and reporting. Understand key metrics, build custom reports, track customer behavior, and make data-driven decisions to grow your Shopify store.

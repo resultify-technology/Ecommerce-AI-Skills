@@ -1,3 +1,8 @@
+---
+name: shopify-ab-testing
+description: Run data-driven A/B tests on your Shopify store. Test product pages, pricing, images, copy, checkout flow, and marketing campaigns with proper statistical methodology.
+---
+
 # Shopify A/B Testing
 
 Run data-driven A/B tests on your Shopify store. Test product pages, pricing, images, copy, checkout flow, and marketing campaigns with proper statistical methodology.

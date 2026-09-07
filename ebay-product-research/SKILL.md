@@ -1,3 +1,8 @@
+---
+name: ebay-product-research
+description: Research profitable products to sell on eBay. Analyze completed listings, sell-through rates, average selling prices, competition density, and seasonal demand patterns.
+---
+
 # eBay Product Research
 
 Research profitable products to sell on eBay. Analyze completed listings, sell-through rates, average selling prices, competition density, and seasonal demand patterns.

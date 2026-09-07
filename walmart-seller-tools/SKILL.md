@@ -1,3 +1,8 @@
+---
+name: walmart-seller-tools
+description: Essential tools for Walmart Marketplace sellers. Product research, listing optimization, advertising management, inventory sync, and analytics tools for scaling on Walmart.
+---
+
 # Walmart Seller Tools
 
 Essential tools for Walmart Marketplace sellers. Product research, listing optimization, advertising management, inventory sync, and analytics tools for scaling on Walmart.

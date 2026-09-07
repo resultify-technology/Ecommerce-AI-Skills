@@ -1,19 +1,22 @@
 ---
-resultify:
-  name: "Customer Feedback Analysis"
-  category: "Reviews & Reputation"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "reviews"
-    - "sentiment-analysis"
-    - "customer-feedback"
-    - "product-improvement"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "customer feedback analysis"
-    - "review sentiment analysis"
+name: customer-feedback-analysis
+description: AI-powered customer feedback and review sentiment analysis skill. Extracts pain points, feature requests, and improvement priorities from customer reviews across e-commerce platforms.
+metadata:
+  resultify:
+    name: Customer Feedback Analysis
+    category: Reviews & Reputation
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - reviews
+    - sentiment-analysis
+    - customer-feedback
+    - product-improvement
+    model: any
+    tokens: ~2000
+    keywords:
+    - customer feedback analysis
+    - review sentiment analysis
 ---
 
 # Customer Feedback Analysis

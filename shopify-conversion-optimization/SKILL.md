@@ -1,3 +1,8 @@
+---
+name: shopify-conversion-optimization
+description: Increase Shopify store conversion rates with data-driven optimization. Product pages, checkout flow, trust signals, page speed, mobile UX, and A/B testing for higher revenue per visitor.
+---
+
 # Shopify Conversion Optimization
 
 Increase Shopify store conversion rates with data-driven optimization. Product pages, checkout flow, trust signals, page speed, mobile UX, and A/B testing for higher revenue per visitor.

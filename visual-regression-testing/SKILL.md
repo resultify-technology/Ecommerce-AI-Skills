@@ -1,19 +1,22 @@
 ---
-resultify:
-  name: "Visual Regression Testing"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "testing"
-    - "visual-regression"
-    - "QA"
-    - "monitoring"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "visual regression testing"
+name: visual-regression-testing
+description: AI-powered visual regression testing skill for e-commerce websites. Designs screenshot comparison workflows, mobile/desktop visual checks, and change detection alerts to prevent conversion-killing UI bugs.
+metadata:
+  resultify:
+    name: Visual Regression Testing
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - testing
+    - visual-regression
+    - QA
+    - monitoring
+    - ecommerce
+    model: any
+    tokens: ~2000
+    keywords:
+    - visual regression testing
 ---
 
 # Visual Regression Testing

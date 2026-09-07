@@ -1,3 +1,8 @@
+---
+name: woocommerce-seo
+description: Optimize WooCommerce stores for search engines. Covers technical SEO, product page optimization, schema markup, site speed, URL structure, and content strategy for organic traffic growth.
+---
+
 # WooCommerce SEO
 
 Optimize WooCommerce stores for search engines. Covers technical SEO, product page optimization, schema markup, site speed, URL structure, and content strategy for organic traffic growth.

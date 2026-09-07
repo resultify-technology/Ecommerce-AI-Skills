@@ -1,3 +1,8 @@
+---
+name: etsy-seller-guide
+description: Complete guide for selling on Etsy — from shop setup to scaling. Covers listing optimization, Etsy SEO, pricing strategy, Star Seller requirements, advertising, and shop analytics for handmade, vintage, and digital product sellers.
+---
+
 # Etsy Seller Guide
 
 Complete guide for selling on Etsy — from shop setup to scaling. Covers listing optimization, Etsy SEO, pricing strategy, Star Seller requirements, advertising, and shop analytics for handmade, vintage, and digital product sellers.

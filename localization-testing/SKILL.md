@@ -1,19 +1,22 @@
 ---
-resultify:
-  name: "Localization Testing"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "localization"
-    - "i18n"
-    - "testing"
-    - "international"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "localization testing"
+name: localization-testing
+description: AI-powered localization and internationalization testing skill for e-commerce sites. Designs multi-language QA frameworks, currency validation checks, shipping info verification, and regional compliance audits.
+metadata:
+  resultify:
+    name: Localization Testing
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - localization
+    - i18n
+    - testing
+    - international
+    - ecommerce
+    model: any
+    tokens: ~2000
+    keywords:
+    - localization testing
 ---
 
 # Localization Testing

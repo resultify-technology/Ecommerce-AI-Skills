@@ -1,3 +1,8 @@
+---
+name: ecommerce-video-marketing
+description: Create video marketing strategy for e-commerce brands. Product videos, unboxing, tutorials, UGC, live streams, and platform-specific video optimization for Amazon, TikTok, YouTube, and Instagram.
+---
+
 # E-Commerce Video Marketing
 
 Create video marketing strategy for e-commerce brands. Product videos, unboxing, tutorials, UGC, live streams, and platform-specific video optimization for Amazon, TikTok, YouTube, and Instagram.

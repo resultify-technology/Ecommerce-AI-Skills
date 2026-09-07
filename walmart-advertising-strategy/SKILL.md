@@ -1,3 +1,8 @@
+---
+name: walmart-advertising-strategy
+description: Master Walmart Connect advertising. Sponsored Products, Sponsored Brands, Display Ads, and onsite/offsite campaigns with bidding strategy, budget allocation, and ROAS optimization.
+---
+
 # Walmart Advertising Strategy
 
 Master Walmart Connect advertising. Sponsored Products, Sponsored Brands, Display Ads, and onsite/offsite campaigns with bidding strategy, budget allocation, and ROAS optimization.

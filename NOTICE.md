@@ -15,15 +15,14 @@ This pack is a fork of the open-source **eCommerce-Skills** project, originally 
 - Rebuilt the README: accurate skill count (162, verified against the actual folder contents), added three catalog sections for skills that existed in the source repo but weren't listed in its README (Etsy Seller Tools, Reliability & Site Performance, Additional Tools), and rewrote the positioning/CTA sections around Resultify's actual agency services.
 - Left the technical content of each skill (frameworks, checklists, platform-specific guidance) unchanged — that's the part that was already good.
 
-## Known gaps carried over from the source repo
+## Frontmatter normalization (fixed)
 
-This is inherited from the original Nexscope repo, not introduced by the rebrand — verified against the untouched source before packaging:
+The original source repo shipped 42 skills with non-standard or missing frontmatter, inherited from Nexscope and not introduced by the rebrand:
 
-- **26 skills ship with no YAML frontmatter at all** (no `name:`/`description:` block up top) — e.g. `ebay-seller-guide`, `shopify-conversion-optimization`, `omnichannel-ecommerce`, `ecommerce-ab-testing`, and 22 others. They open with a plain `# Heading` instead.
-- **18 skills use a different frontmatter schema** (the Reliability & Site Performance and Additional Tools sections) — a nested `resultify:` block with `category`/`tags`/`version`, but no top-level `description:` field.
-- **2 skills** (`ebay-seller-tools`, `walmart-seller-tools`) are the most extreme version of the first case.
+- **26 skills had no YAML frontmatter at all** (no `name:`/`description:` block) — they opened with a plain `# Heading` instead.
+- **16 skills used a nested `resultify:` block** (category/tags/version) with no top-level `description:` field.
 
-Depending on how your agent discovers skills, files without a top-level `name:`/`description:` may not auto-register or auto-invoke the same way the rest of the pack does. Worth normalizing (adding standard frontmatter to all ~46 affected files) before handing this to a client if automatic skill discovery matters for your use case — the written content in every one of them is otherwise complete and usable.
+All 162 skills now carry standard `name:` (matching the folder slug) and `description:` frontmatter, generated from each skill's existing intro paragraph — no capability content was rewritten. Pre-existing metadata (category, tags, version, author) was preserved under a `metadata.resultify` block rather than discarded. Every skill in this pack now auto-registers the same way with agents that key off frontmatter.
 
 ## License
 

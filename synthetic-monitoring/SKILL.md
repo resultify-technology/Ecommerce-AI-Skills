@@ -1,19 +1,22 @@
 ---
-resultify:
-  name: "Synthetic Monitoring"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "monitoring"
-    - "checkout"
-    - "uptime"
-    - "testing"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "synthetic monitoring"
+name: synthetic-monitoring
+description: AI-powered synthetic monitoring skill for e-commerce websites. Designs automated user journey tests for add-to-cart, checkout, and payment flows with alerting rules and performance baselines.
+metadata:
+  resultify:
+    name: Synthetic Monitoring
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - monitoring
+    - checkout
+    - uptime
+    - testing
+    - ecommerce
+    model: any
+    tokens: ~2000
+    keywords:
+    - synthetic monitoring
 ---
 
 # Synthetic Monitoring

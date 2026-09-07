@@ -1,3 +1,8 @@
+---
+name: shopify-seo
+description: Comprehensive Shopify SEO optimization guide. Technical SEO, on-page optimization, collection pages, blog strategy, site architecture, and link building for Shopify stores.
+---
+
 # Shopify SEO
 
 Comprehensive Shopify SEO optimization guide. Technical SEO, on-page optimization, collection pages, blog strategy, site architecture, and link building for Shopify stores.

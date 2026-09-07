@@ -1,19 +1,22 @@
 ---
-resultify:
-  name: "API Monitoring"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "api"
-    - "webhook"
-    - "monitoring"
-    - "integration"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "api monitoring"
+name: api-monitoring
+description: AI-powered API and webhook monitoring skill for e-commerce integrations. Designs health check systems, alerting strategies, SLA reporting templates, and integration validation for e-commerce API endpoints.
+metadata:
+  resultify:
+    name: API Monitoring
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - api
+    - webhook
+    - monitoring
+    - integration
+    - ecommerce
+    model: any
+    tokens: ~2000
+    keywords:
+    - api monitoring
 ---
 
 # API Monitoring

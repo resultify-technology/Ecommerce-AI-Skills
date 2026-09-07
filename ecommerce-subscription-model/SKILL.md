@@ -1,3 +1,8 @@
+---
+name: ecommerce-subscription-model
+description: Design and launch subscription-based e-commerce businesses. Subscribe-and-save, membership boxes, replenishment models, pricing tiers, and churn reduction strategies.
+---
+
 # E-Commerce Subscription Model
 
 Design and launch subscription-based e-commerce businesses. Subscribe-and-save, membership boxes, replenishment models, pricing tiers, and churn reduction strategies.

@@ -1,18 +1,21 @@
 ---
-resultify:
-  name: "Share of Shelf"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "digital-shelf"
-    - "visibility"
-    - "category-analysis"
-    - "monitoring"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "share of shelf"
+name: share-of-shelf
+description: AI-powered digital share of shelf analysis skill. Measures brand visibility within product categories, benchmarks against competitors, and tracks shelf position trends across e-commerce platforms.
+metadata:
+  resultify:
+    name: Share of Shelf
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - digital-shelf
+    - visibility
+    - category-analysis
+    - monitoring
+    model: any
+    tokens: ~2000
+    keywords:
+    - share of shelf
 ---
 
 # Share of Shelf

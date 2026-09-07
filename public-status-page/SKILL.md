@@ -1,18 +1,21 @@
 ---
-resultify:
-  name: "Public Status Page"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "status-page"
-    - "incident-communication"
-    - "transparency"
-    - "monitoring"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "public status page"
+name: public-status-page
+description: AI-powered public status page design skill for e-commerce businesses. Creates status page architecture, incident communication templates, subscriber notification systems, and uptime reporting frameworks.
+metadata:
+  resultify:
+    name: Public Status Page
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - status-page
+    - incident-communication
+    - transparency
+    - monitoring
+    model: any
+    tokens: ~2000
+    keywords:
+    - public status page
 ---
 
 # Public Status Page

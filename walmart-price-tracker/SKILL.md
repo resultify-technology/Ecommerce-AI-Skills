@@ -1,18 +1,21 @@
 ---
-resultify:
-  name: "Walmart Price Tracker"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "walmart"
-    - "price-tracking"
-    - "monitoring"
-    - "competitor-analysis"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "walmart price tracker"
+name: walmart-price-tracker
+description: AI-powered Walmart price tracking and competitive pricing skill. Analyzes Walmart marketplace pricing trends, competitor price positioning, and generates repricing strategies for Walmart sellers.
+metadata:
+  resultify:
+    name: Walmart Price Tracker
+    category: Monitoring & Alerts
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - walmart
+    - price-tracking
+    - monitoring
+    - competitor-analysis
+    model: any
+    tokens: ~2000
+    keywords:
+    - walmart price tracker
 ---
 
 # Walmart Price Tracker

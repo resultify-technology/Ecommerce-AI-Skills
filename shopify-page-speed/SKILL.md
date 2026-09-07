@@ -1,18 +1,21 @@
 ---
-resultify:
-  name: "Shopify Page Speed"
-  category: "Site Performance"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "shopify"
-    - "page-speed"
-    - "performance"
-    - "core-web-vitals"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "shopify page speed"
+name: shopify-page-speed
+description: AI-powered Shopify page speed optimization skill. Diagnoses performance bottlenecks, provides Core Web Vitals improvement plans, and recommends theme and app optimizations for faster Shopify stores.
+metadata:
+  resultify:
+    name: Shopify Page Speed
+    category: Site Performance
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - shopify
+    - page-speed
+    - performance
+    - core-web-vitals
+    model: any
+    tokens: ~2000
+    keywords:
+    - shopify page speed
 ---
 
 # Shopify Page Speed

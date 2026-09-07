@@ -1,3 +1,8 @@
+---
+name: ebay-seller-tools
+description: Essential tools and software for eBay sellers. Listing tools, repricing, analytics, inventory management, shipping, and research tools to scale your eBay business.
+---
+
 # eBay Seller Tools
 
 Essential tools and software for eBay sellers. Listing tools, repricing, analytics, inventory management, shipping, and research tools to scale your eBay business.

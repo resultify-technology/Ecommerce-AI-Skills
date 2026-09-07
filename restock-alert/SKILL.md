@@ -1,18 +1,21 @@
 ---
-resultify:
-  name: "Restock Alert"
-  category: "Supply Chain & Logistics"
-  version: "1.0.0"
-  author: "Resultify Technology"
-  tags:
-    - "inventory"
-    - "restock"
-    - "supply-chain"
-    - "alerts"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "restock alert"
+name: restock-alert
+description: AI-powered restock alert and replenishment planning skill. Calculates optimal reorder points, safety stock levels, and stockout risk scores to prevent lost sales from inventory gaps.
+metadata:
+  resultify:
+    name: Restock Alert
+    category: Supply Chain & Logistics
+    version: 1.0.0
+    author: Resultify Technology
+    tags:
+    - inventory
+    - restock
+    - supply-chain
+    - alerts
+    model: any
+    tokens: ~2000
+    keywords:
+    - restock alert
 ---
 
 # Restock Alert

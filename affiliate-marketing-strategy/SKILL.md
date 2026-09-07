@@ -1,3 +1,8 @@
+---
+name: affiliate-marketing-strategy
+description: Build and scale affiliate marketing programs for e-commerce stores. Covers program setup, commission structures, affiliate recruitment, tracking, and optimization for Shopify, Amazon, and independent stores.
+---
+
 # Affiliate Marketing Strategy
 
 Build and scale affiliate marketing programs for e-commerce stores. Covers program setup, commission structures, affiliate recruitment, tracking, and optimization for Shopify, Amazon, and independent stores.
